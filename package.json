@@ -5,7 +5,7 @@
   "author": "Victor Felder <victorfelder@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vhf/free-programming-books-lint.git"
+    "url": "git+https://github.com/LeoOuyang24/free-programming-books-lint.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -44,7 +44,7 @@
     "fpb-lint": "./cli.js"
   },
   "bugs": {
-    "url": "https://github.com/vhf/free-programming-books-lint/issues"
+    "url": "https://github.com/LeoOuyang24/free-programming-books-lint/issues"
   },
-  "homepage": "https://github.com/vhf/free-programming-books-lint#readme"
+  "homepage": "https://github.com/LeoOuyang24/free-programming-books-lint#readme"
 }
